@@ -1,0 +1,116 @@
+[
+	{
+		"name": "Abel",
+		"filepath": "../images/Abel.png",
+		"mainColor": "orange",
+		"colors": [],
+		"metal": ""
+	},
+	{
+		"name": "Blanche",
+		"filepath": "../images/Blanche.png",
+		"mainColor": "brown",
+		"colors": [
+			"brown",
+			"white",
+			"pink"
+		],
+		"metal": "other"
+	},
+	{
+		"name": "Callisto",
+		"filepath": "../images/Callisto.png",
+		"mainColor": "purple",
+		"colors": [
+			"purple",
+			"white",
+			"red",
+			"black"
+		],
+		"metal": "silver"
+	},
+	{
+		"name": "Datura",
+		"filepath": "../images/Datura.png",
+		"mainColor": "blue",
+		"colors": [
+			"blue",
+			"white"
+		],
+		"metal": "silver"
+	},
+	{
+		"name": "Eos",
+		"filepath": "../images/Eos.png",
+		"mainColor": "purple",
+		"colors": [],
+		"metal": ""
+	},
+	{
+		"name": "Lazarus",
+		"filepath": "../images/Lazarus.png",
+		"mainColor": "green",
+		"colors": [
+			"green",
+			"white",
+			"brown"
+		],
+		"metal": "gold"
+	},
+	{
+		"name": "Molly",
+		"filepath": "../images/Molly.png",
+		"mainColor": "green",
+		"colors": [
+			"green",
+			"white",
+			"yellow",
+			"brown"
+		],
+		"metal": "gold"
+	},
+	{
+		"name": "Shepard",
+		"filepath": "../images/Shepard.png",
+		"mainColor": "green",
+		"colors": [
+			"green",
+			"brown",
+			"white"
+		],
+		"metal": "silver"
+	},
+	{
+		"name": "Sofia",
+		"filepath": "../images/Sofia.png",
+		"mainColor": "green",
+		"colors": [
+			"green",
+			"white"
+		],
+		"metal": "gold"
+	},
+	{
+		"name": "Sylvianne",
+		"filepath": "../images/Sylvianne.png",
+		"mainColor": "red",
+		"colors": [
+			"red",
+			"yellow",
+			"black"
+		],
+		"metal": "gold"
+	},
+	{
+		"name": "Theodore",
+		"filepath": "../images/Theodore.png",
+		"mainColor": "green",
+		"colors": [
+			"green",
+			"pink",
+			"brown",
+			"white"
+		],
+		"metal": "gold"
+	}
+]
