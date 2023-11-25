@@ -4,7 +4,9 @@
 		"filepath": "../images/Abel.png",
 		"mainColor": "orange",
 		"colors": [],
-		"metal": ""
+        "tempcolors": [],
+		"metal": "",
+        "temp": ""
 	},
 	{
 		"name": "Blanche",
@@ -15,7 +17,13 @@
 			"white",
 			"pink"
 		],
-		"metal": "other"
+        "tempcolors": [
+			"warmbrown",
+			"warmwhite",
+			"warmpink"
+		],
+		"metal": "other",
+        "temp": "warm"
 	},
 	{
 		"name": "Callisto",
@@ -24,10 +32,18 @@
 		"colors": [
 			"purple",
 			"white",
-			"red",
+			"pink",
 			"black"
 		],
-		"metal": "silver"
+		"tempcolors": [
+			"warmpurple",
+            "coolpurple",
+			"coolwhite",
+			"coolpink",
+			"coolblack"
+		],
+		"metal": "silver",
+        "temp": "cool"
 	},
 	{
 		"name": "Datura",
@@ -37,14 +53,21 @@
 			"blue",
 			"white"
 		],
-		"metal": "silver"
+		"tempcolors": [
+			"coolblue",
+			"coolwhite"
+		],
+		"metal": "silver",
+        "temp": "cool"
 	},
 	{
 		"name": "Eos",
 		"filepath": "../images/Eos.png",
 		"mainColor": "purple",
 		"colors": [],
-		"metal": ""
+        "tempcolors": [],
+		"metal": "both",
+        "temp": ""
 	},
 	{
 		"name": "Lazarus",
@@ -55,7 +78,13 @@
 			"white",
 			"brown"
 		],
-		"metal": "gold"
+        "tempcolors": [
+			"coolgreen",
+			"coolwhite",
+			"coolbrown"
+		],
+		"metal": "gold",
+        "temp": "cool"
 	},
 	{
 		"name": "Molly",
@@ -67,7 +96,14 @@
 			"yellow",
 			"brown"
 		],
-		"metal": "gold"
+		"tempcolors": [
+			"warmgreen",
+			"warmwhite",
+			"warmyellow",
+			"warmbrown"
+		],
+		"metal": "gold",
+        "temp": "warm"
 	},
 	{
 		"name": "Shepard",
@@ -78,7 +114,13 @@
 			"brown",
 			"white"
 		],
-		"metal": "silver"
+        "tempcolors": [
+			"coolgreen",
+			"coolbrown",
+			"warmwhite"
+		],
+		"metal": "silver",
+        "temp": "cool"
 	},
 	{
 		"name": "Sofia",
@@ -88,7 +130,12 @@
 			"green",
 			"white"
 		],
-		"metal": "gold"
+        "tempcolors": [
+			"warmgreen",
+			"warmwhite"
+		],
+		"metal": "gold",
+        "temp": "warm"
 	},
 	{
 		"name": "Sylvianne",
@@ -97,9 +144,18 @@
 		"colors": [
 			"red",
 			"yellow",
+            "orange",
 			"black"
 		],
-		"metal": "gold"
+		"tempcolors": [
+			"warmred",
+            "coolred",
+			"warmyellow",
+            "coolorange",
+			"warmblack"
+		],
+		"metal": "gold",
+        "temp": "warm"
 	},
 	{
 		"name": "Theodore",
@@ -111,6 +167,13 @@
 			"brown",
 			"white"
 		],
-		"metal": "gold"
+        "tempcolors": [
+			"warmgreen",
+			"coolpink",
+			"warmbrown",
+			"coolwhite"
+		],
+		"metal": "gold",
+        "temp": "warm"
 	}
 ]
